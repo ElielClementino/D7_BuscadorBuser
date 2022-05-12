@@ -120,6 +120,7 @@ margin-left:28%;
     justify-content:space-around;
     background-color:#fff;
     position:absolute;
+    height:fit-content;
     bottom:0;
     width:100%;
     font-size:10pt;
