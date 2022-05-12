@@ -1,0 +1,127 @@
+html,body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    height:100%;
+    font-family:Roboto,sans-serif;
+}
+body{
+    background-image:url(https://dals0gb6i1pll.cloudfront.net/img/banner-mobile-buser.e1bda3c.png),linear-gradient(135deg,#d11264,#f11075);
+
+}
+.icon{
+    width:10px;
+    
+}
+.fotoBuser{
+    width:45%;
+}
+.cabecalho{
+    padding:1% 5% 0 5%;
+    background-color:#fff;
+    height:5vh;
+}
+.navegacao_header{
+    display:flex;
+    justify-content:space-between;
+}
+.ancoraBotaoEntrar{
+display:flex;
+flex-direction:column;
+align-self:flex-end;
+}
+.botaoEntrar{
+    border:none;
+    background:none;
+    color:rgb(228,87,118);
+    font-weight:900;
+}
+.textoPrincipal{
+    text-transform:uppercase;
+    width:95%;
+    font-size:20.4pt;
+    font-weight:900;
+    color:#fff;
+}
+.subTexto{
+    color:rgba(255, 255, 255,0.8);
+    font-size:13pt;
+}
+/**/
+input,select{
+    border:none;
+    background:none;
+    color:rgb(99, 96, 96);
+
+}
+.sectionCorpo{
+margin-left:6%;
+}
+.textoInput{
+display:flex;
+margin-left:6%;
+margin-bottom:0;
+margin-top:11%;
+font-weight:500;
+font-size:8pt;
+}
+.container_input{
+background-color:#fff;
+display:flex;
+width:93%;
+height:42vh;
+border-radius:5px;
+}
+.containerCampos{
+border:solid 1px rgb(211, 211, 211);
+padding:5%;
+border-radius:5px;
+width:130%;
+margin-left:6%;
+}
+.imagemExchange{
+    margin-left:20%;
+    transform:rotate(270deg);
+}
+.botaoBuscar{
+    width:142%;
+    margin-left:6%;
+    padding:5%;
+    border-radius:5px;
+    background-color:rgb(228,87,118);
+    color:white;
+    font-size:12pt;
+    height:10vw;
+    margin-top:4%;
+    border:none;
+}
+.searchIcon{
+    vertical-align:top;
+    margin-right:6%;
+    width:15px;
+}
+.divOnibus{
+    text-align:center;
+    
+}
+.onibusBuser{
+    width:80%;
+    margin-top:15%;
+
+}
+/**/
+.iconFooter{
+display:flex;
+width:15px;
+margin-left:28%;
+}
+.footer{
+    display:flex;
+    justify-content:space-around;
+    background-color:#fff;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    font-size:10pt;
+    color:rgba(52, 50, 50,0.8);
+}
