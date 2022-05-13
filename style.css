@@ -55,43 +55,42 @@ input,select{
 
 }
 .sectionCorpo{
-margin-left:6%;
+margin-left:4%;
 }
 .textoInput{
 display:flex;
-margin-left:6%;
+margin-left:4%;
 margin-bottom:0;
-margin-top:11%;
+margin-top:7%;
 font-weight:500;
 font-size:8pt;
 }
 .container_input{
 background-color:#fff;
 display:flex;
-width:93%;
-height:42vh;
+width:40vh;
+height:48vh;
 border-radius:5px;
 }
 .containerCampos{
 border:solid 1px rgb(211, 211, 211);
 padding:5%;
 border-radius:5px;
-width:130%;
-margin-left:6%;
+width:33vh;
+margin-left:4%;
 }
 .imagemExchange{
     margin-left:20%;
     transform:rotate(270deg);
 }
 .botaoBuscar{
-    width:142%;
+    width:36vh;
     margin-left:6%;
-    padding:5%;
     border-radius:5px;
-    background-color:rgb(228,87,118);
+    background-color:#f11075;
     color:white;
     font-size:12pt;
-    height:10vw;
+    height:6vh;
     margin-top:4%;
     border:none;
 }
@@ -102,12 +101,9 @@ margin-left:6%;
 }
 .divOnibus{
     text-align:center;
-    
 }
 .onibusBuser{
-    width:80%;
-    margin-top:15%;
-
+    width:32vh;
 }
 /**/
 .iconFooter{
