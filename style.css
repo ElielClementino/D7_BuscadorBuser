@@ -14,7 +14,7 @@ body{
     
 }
 .fotoBuser{
-    width:45%;
+    width:18vh;
 }
 .cabecalho{
     padding:1% 5% 0 5%;
@@ -100,7 +100,7 @@ margin-left:4%;
     width:15px;
 }
 .divOnibus{
-    text-align:center;
+    margin-left:6vh;
 }
 .onibusBuser{
     width:32vh;
