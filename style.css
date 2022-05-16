@@ -48,11 +48,13 @@ align-self:flex-end;
     font-size:13pt;
 }
 /**/
+select {
+    -webkit-appearance: none;
+  }
 input,select{
     border:none;
     background:none;
     color:rgb(99, 96, 96);
-
 }
 .sectionCorpo{
 margin-left:4%;
